@@ -18,5 +18,4 @@ const obj = {
 
 
 const person = Person.fromObject(obj);
-console.log(person)
 console.log(person.firstName + " " + person.lastName);
